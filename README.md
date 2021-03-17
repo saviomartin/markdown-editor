@@ -87,13 +87,6 @@ Please make sure to update tests as appropriate.
 
 Live Markdown Editor is licensed under the MIT license. [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 
-## Developer ⚡
-
-|  <img src='https://avatars.githubusercontent.com/saviomartin' height='75%'> |
-|--|
-| Discord Clone Developer and Maintainer |
-|Follow me on [Github](https://github.com/saviomartin) and [Instagram](https://instagram.com/teen_developer)  |
-
 -----
 
 <h5 align='center'>Developed with ❤️ In India 🇮🇳</h5>
